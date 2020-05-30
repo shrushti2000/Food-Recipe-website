@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Food-Recipe-website/static/css/main.98ae07c2.chunk.css",
+    "main.js": "/Food-Recipe-website/static/js/main.e776cd94.chunk.js",
+    "main.js.map": "/Food-Recipe-website/static/js/main.e776cd94.chunk.js.map",
+    "runtime-main.js": "/Food-Recipe-website/static/js/runtime-main.9f5e31e9.js",
+    "runtime-main.js.map": "/Food-Recipe-website/static/js/runtime-main.9f5e31e9.js.map",
+    "static/js/2.2ff27a14.chunk.js": "/Food-Recipe-website/static/js/2.2ff27a14.chunk.js",
+    "static/js/2.2ff27a14.chunk.js.map": "/Food-Recipe-website/static/js/2.2ff27a14.chunk.js.map",
+    "index.html": "/Food-Recipe-website/index.html",
+    "precache-manifest.add8d62add06a0821d889561bf46f3de.js": "/Food-Recipe-website/precache-manifest.add8d62add06a0821d889561bf46f3de.js",
+    "service-worker.js": "/Food-Recipe-website/service-worker.js",
+    "static/css/main.98ae07c2.chunk.css.map": "/Food-Recipe-website/static/css/main.98ae07c2.chunk.css.map",
+    "static/js/2.2ff27a14.chunk.js.LICENSE.txt": "/Food-Recipe-website/static/js/2.2ff27a14.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Food-Recipe-website/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f5e31e9.js",
+    "static/js/2.2ff27a14.chunk.js",
+    "static/css/main.98ae07c2.chunk.css",
+    "static/js/main.e776cd94.chunk.js"
+  ]
+}
